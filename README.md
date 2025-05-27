@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#e76f51;">Languages and Tools:</h3>
+<h3 align="left" style="color:#e76f51;">🖥️Languages and Tools:</h3>
 <p align="left" style="display:flex; flex-wrap: wrap; gap: 10px; max-width: 1000px;">
   <a href="https://developer.android.com" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
