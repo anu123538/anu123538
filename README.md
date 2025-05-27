@@ -177,7 +177,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#e76f51;">📊 Top Languages Used:</h3>
+<h3 align="left" style="color:#e76f51;">📝 Top Languages Used:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu123538&show_icons=true&locale=en&layout=compact&theme=react" alt="anu123538" />
