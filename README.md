@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#e63946;">
-  Hi 👋, I'm <span style="color:#457b9d;">Anuththara Imanshi</span>
+<h1 align="center" style="color#8B0000;">
+  Hi 👋, I'm <span style="color:#8B0000;">Anuththara Imanshi</span>
 </h1>
 
 <h3 align="center" style="color:#f4a261;">
@@ -16,11 +16,7 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
-  </a>
-</p>
+
 
 <ul style="font-size: 1.1rem; color:#264653;">
   <li>🌱 I’m currently learning <strong style="color:#2a9d8f;">Java, Python, Node.js, and React</strong></li>
