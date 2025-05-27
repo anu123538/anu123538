@@ -10,11 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="anu123538" />
 </p>
 
+<h3 align="left" style="color:#ff69b4;">🏆 GitHub Trophies:</h3>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anu123538&theme=blue" alt="anu123538" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anu123538&theme=radical" alt="anu123538" />
   </a>
 </p>
+
 
 
 
@@ -181,10 +184,16 @@
 </p>
 
 
+<h3 align="left" style="color:#2a9d8f;">📊 GitHub Stats:</h3>
+
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu123538&show_icons=true&locale=en&theme=react" alt="anu123538" />
 </p>
 
+
+<h3 align="left" style="color:#e76f51;">🔥 GitHub Streak Stats:</h3>
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu123538&theme=blue-green" alt="anu123538" />
 </p>
+
