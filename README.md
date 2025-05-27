@@ -25,7 +25,7 @@
   <li>⚡ Fun fact: <strong style="color:#f4a261;">I think I am funny</strong></li>
 </ul>
 
-<h3 align="left" style="color:#1d3557;">Connect with me:</h3>
+<h3 align="left" style="color:#1d3557;">📞Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anuththara-amarasingha-43b03a311" target="_blank" rel="noopener" style="margin-right:10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
