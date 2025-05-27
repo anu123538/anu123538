@@ -191,7 +191,7 @@
 </p>
 
 
-<h3 align="left" style="color:#e76f51;">🔥 GitHub Streak Stats:</h3>
+<h3 align="left" style="color:#87CEEB;">🔥 GitHub Streak Stats:</h3>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu123538&theme=blue-green" alt="anu123538" />
