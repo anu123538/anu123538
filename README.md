@@ -201,7 +201,5 @@
 
 <hr />
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=anu123538&icon=0&color=0" alt="Visitor Count" />
-</a>
+
 
