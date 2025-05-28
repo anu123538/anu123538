@@ -2,11 +2,11 @@
   Hi 👋, I'm <span style="color:#8B0000;">Anuththara Imanshi</span>
 </h1>
 
-<h3 align="center" style="color:#f4a261;">
-  A future software engineer from Sri Lanka with a love for crafting smooth frontend experiences and a deep interest in QA testing
+<h3 align="center" style="color:#8B0000;">
+ I'm a software engineering student from Sri Lanka with a passion for crafting smooth, user-friendly frontend experiences and a strong interest in QA engineering. I enjoy exploring the intersection of development and quality assurance to ensure polished, reliable software
 </h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="anu123538" />
 </p>
 
