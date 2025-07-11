@@ -23,7 +23,7 @@
 
 <ul style="font-size: 1.1rem; color:#264653;">
   <li>🌱 I’m currently learning <strong style="color:#2a9d8f;">Java, Python, Node.js, and React</strong></li>
-  <li>💬 Ask me about <strong style="color:#e76f51;">Java</strong></li>
+  <li>💬 Ask me about <strong style="color:#e76f51;">Java,python and automated testing</strong></li>
   <li>📫 How to reach me: <strong style="color:#264653;">anuththaraimanshi842@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong style="color:#f4a261;">I think I am funny</strong></li>
 </ul>
