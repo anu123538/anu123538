@@ -191,9 +191,10 @@
 </p>
 
 
-<h3 align="left" style="color:#87CEEB;">🔥 GitHub Streak Stats:</h3>
+🔥 GitHub Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=anu123538&theme=radical" alt="GitHub Streak Stats for anu123538" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=anu123538&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 
 <h3>🔝 Top Contributed Repo</h3>
