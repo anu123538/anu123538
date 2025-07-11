@@ -191,7 +191,7 @@
 </p>
 
 
-🔥 GitHub Streak Stats
+<h3>🔥 GitHub Streak Stats</h3>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=anu123538&theme=radical&hide_border=false)
 
