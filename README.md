@@ -193,10 +193,8 @@
 
 <h3 align="left" style="color:#87CEEB;">🔥 GitHub Streak Stats:</h3>
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anu123538&theme=radical&hide_border=true&border_radius=10" alt="anu123538's GitHub streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=anu123538&theme=radical" alt="GitHub Streak Stats for anu123538" />
+
 
 <h3>🔝 Top Contributed Repo</h3>
 <img src="https://github-contributor-stats.vercel.app/api?username=anu123538&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
