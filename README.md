@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#8B0000;">
- I'm a software engineering student from Sri Lanka with a passion for crafting smooth, user-friendly frontend experiences and a strong interest in QA engineering. I enjoy exploring the intersection of development and quality assurance to ensure polished, reliable software
+ I’m a software engineering student from Sri Lanka who loves making smooth and friendly frontend experiences. I’m also curious about QA and enjoy making sure software works perfectly. I like exploring both building things and keeping them polished, so I’m excited to grow in frontend or QA.
 </h3>
 
 <p align="center">
