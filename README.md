@@ -24,7 +24,7 @@
 
 <ul style="font-size: 1.1rem; color:#264653;">
   <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA Automation</strong></li>
-  <li>💬 Ask me about <strong style="color:#e76f51;">JMeter, JUnit, Selenium, Playwright, Frontend UI/UX</strong></li>
+  <li>💬 Ask me about <strong style="color:#e76f51;">JMeter, JUnit, Selenium</strong></li>
   <li>📫 Reach me at: <strong style="color:#264653;">anuththaraimanshi842@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong style="color:#f4a261;">I enjoy making software polished, reliable, and user-friendly while having fun!</strong></li>
 </ul>
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#e76f51;">🖥️ QA & Frontend Tools:</h3>
+<h3 align="left" style="color:#e76f51;">🖥️Languages:</h3>
 <p align="left" style="display:flex; flex-wrap: wrap; gap: 12px; max-width: 1000px;">
   <!-- QA Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/>
