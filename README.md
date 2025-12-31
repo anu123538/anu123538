@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;QA +%26+Engineer;Building+Smooth+UI+%F0%9F%93%8A;Automated+Testing+%26+Quality+Assurance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;QA+%26+Engineer;Building+Smooth+UI+%F0%9F%93%8A;Automated+Testing+%26+Quality+Assurance" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="Profile Views" />
