@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;Frontend+Developer+%26+QA+Enthusiast;Building+Smooth+UI+%F0%9F%93%8A;Automated+Testing+%26+Quality+Assurance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;QA +%26+Engineer;Building+Smooth+UI+%F0%9F%93%8A;Automated+Testing+%26+Quality+Assurance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 </p>
 
 <ul style="font-size: 1.1rem; color:#264653;">
-  <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA & Frontend Development</strong></li>
-  <li>💬 Ask me about <strong style="color:#e76f51;">Java, Python, automated testing, and building smooth frontend experiences</strong></li>
+  <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA </strong></li>
+  <li>💬 Ask me about <strong style="color:#e76f51;">Java, Python, automated testing</strong></li>
   <li>📫 Reach me at: <strong style="color:#264653;">anuththaraimanshi842@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong style="color:#f4a261;">I enjoy making software polished, friendly, and user-friendly</strong></li>
 </ul>
@@ -60,17 +60,14 @@
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 
 <!-- QA Tools -->
 <img src="https://img.shields.io/badge/JUnit-%23A52A2A.svg?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
@@ -82,10 +79,9 @@
 <!-- Design Tools -->
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 
 <!-- Others -->
-<img src="https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
