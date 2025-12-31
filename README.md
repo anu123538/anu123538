@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;Frontend+&+QA+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=QA+Engineer+%26+Frontend+Developer;Software+Engineering+Student;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center" style="color:#264653;">
-  I’m a software engineering student from Sri Lanka who loves making smooth and friendly frontend experiences. Curious about QA and enjoy making sure software works perfectly. Excited to grow in frontend or QA.
+  I’m a QA Engineer & Frontend Developer from Sri Lanka. Passionate about making software polished, reliable, and user-friendly. Experienced in automated testing and building smooth UI experiences.
 </h3>
 
 <h3 align="left" style="color:#ff69b4;">🏆 GitHub Trophies:</h3>
@@ -23,10 +23,10 @@
 </p>
 
 <ul style="font-size: 1.1rem; color:#264653;">
-  <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA, Frontend Development</strong></li>
-  <li>💬 Ask me about <strong style="color:#e76f51;">Java, Python, Automated Testing, Frontend UI/UX</strong></li>
+  <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA Automation</strong></li>
+  <li>💬 Ask me about <strong style="color:#e76f51;">JMeter, JUnit, Selenium, Playwright, Frontend UI/UX</strong></li>
   <li>📫 Reach me at: <strong style="color:#264653;">anuththaraimanshi842@gmail.com</strong></li>
-  <li>⚡ Fun fact: <strong style="color:#f4a261;">I enjoy making software polished and user-friendly while having fun!</strong></li>
+  <li>⚡ Fun fact: <strong style="color:#f4a261;">I enjoy making software polished, reliable, and user-friendly while having fun!</strong></li>
 </ul>
 
 <h3 align="left" style="color:#1d3557;">📞 Connect with me:</h3>
@@ -36,30 +36,25 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#e76f51;">🖥️ Frontend & QA Tools:</h3>
+<h3 align="left" style="color:#e76f51;">🖥️ QA & Frontend Tools:</h3>
 <p align="left" style="display:flex; flex-wrap: wrap; gap: 12px; max-width: 1000px;">
-  <!-- Core Languages -->
+  <!-- QA Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Apache_JMeter_logo.svg" alt="JMeter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+  </a>
+  <!-- Frontend & Dev Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  <!-- Design & QA Tools -->
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canva_Logo.png" alt="Canva" width="40" height="40"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Canva_Logo.png" alt="Canva" width="40" height="40"/>
   </a>
 </p>
 
