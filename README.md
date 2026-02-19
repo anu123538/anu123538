@@ -12,12 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left" style="color:#ff69b4;">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anu123538&theme=radical" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <ul style="font-size: 1.1rem; color:#264653;">
   <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA </strong></li>
