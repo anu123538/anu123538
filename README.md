@@ -16,15 +16,11 @@
 
 
 
-
-
 <p align="center">
 
   <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="Profile Views" />
 
 </p>
-
-
 
 
 
@@ -34,8 +30,7 @@
 
   <li>💬 Ask me about <strong style="color:#e76f51;">Java, Python, automated testing</strong></li>
 
-  <li>📫 Reach me at: <strong style="color:#264653;">anuththaraimanshi842@gmail.com</strong></li>
-
+  <li>📫 Reach me at: <strong style="color:#264653;"><a href="mailto:anuththaraimanshi842@gmail.com" style="text-decoration: none; color:#264653;">anuththaraimanshi842@gmail.com</a></strong></li>
   <li>⚡ Fun fact: <strong style="color:#f4a261;">I enjoy making software polished, friendly, and user-friendly</strong></li>
 
 </ul>
@@ -147,17 +142,10 @@
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
 
 </p>
-
-
-
 <h3 align="left" style="color:#e76f51;">📝 Top Languages Used:</h3>
-
-<p>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu123538&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu123538&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
 </p>
-
 
 
 <h3 align="left" style="color:#2a9d8f;">📊 GitHub Stats:</h3>
