@@ -22,8 +22,6 @@
 
 </p>
 
-
-
 <ul style="font-size: 1.1rem; color:#264653;">
 
   <li>🌱 Currently learning <strong style="color:#2a9d8f;">Java, Python, React, QA </strong></li>
@@ -146,21 +144,15 @@
 <p>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anu123538&layout=compact&theme=react" alt="Top Languages" />
 </p>
-
 <h3 align="left" style="color:#2a9d8f;">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=anu123538&show_icons=true&theme=react" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anu123538&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
 </p>
 
 <h3>🔥 GitHub Streak Stats</h3>
-
 <p>
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=anu123538&theme=radical&hide_border=false" alt="Streak Stats" />
-
 </p>
-
-
 
 <h3>🔝 Top Contributed Repo</h3>
 
