@@ -147,16 +147,10 @@
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anu123538&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
-
 <h3 align="left" style="color:#2a9d8f;">📊 GitHub Stats:</h3>
-
 <p>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anu123538&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-
+  <img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=anu123538&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
-
-
 
 <h3>🔥 GitHub Streak Stats</h3>
 
