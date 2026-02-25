@@ -143,8 +143,8 @@
 
 </p>
 <h3 align="left" style="color:#e76f51;">📝 Top Languages Used:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu123538&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anu123538&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 
