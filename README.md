@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-12345-1e90ff?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 <ul style="font-size: 1.1rem; color:#264653;">
